@@ -39,3 +39,5 @@ class Card {
         return this.getValue()<other.getValue();
     }
   }
+
+  module.exports = Card
